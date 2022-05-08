@@ -1,2 +1,2 @@
-# Eliminating-orthonormality-constraints-of-SVD-in-blind-watermarking-A-robust-approach-with-full-ret
-This repository contains the code and data to implement &lt;Eliminating orthonormality constraints of SVD in blind watermarking: A robust approach with full retrievability>.
+# A-robust-blind-watermarking-scheme-with-full-retrievability-Eliminating-orthonormality-constraints
+This repository contains the code and data to implement &lt;A robust blind watermarking scheme with full retrievability: Eliminating orthonormality constraints of SVD>.
